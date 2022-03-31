@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+pybind11/
 
 # Compiled Object files
 *.slo
