@@ -1,8 +1,6 @@
 class PySkeleton {
     public:
-        int x;
+        int x = 5;
 
-        void set_x(int _x) { x = _x; }
-
-        int get_x() { return x; }
+        int get_x() const { return x; }
 }
